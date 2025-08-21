@@ -1,12 +1,12 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Kenneth Barrancas"
 output: 
   html_document:
     number_sections: true
     toc: true
     toc_depth: 5
-date: "`r Sys.Date()`"   
+date: "8/21/25`"   
 ---
 
 # A Little Survey
