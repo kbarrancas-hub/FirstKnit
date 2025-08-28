@@ -1,12 +1,15 @@
 ---
 title: "First Knit"
 author: "Kenneth Barrancas"
-output: 
+date: "`r Sys.Date()`"
+output:
+  pdf_document:
+    toc: true
+    toc_depth: '5'
   html_document:
     number_sections: true
     toc: true
     toc_depth: 5
-date: "`r Sys.Date()`"   
 ---
 
 # A Little Survey
@@ -16,7 +19,7 @@ Here are just a few questions so I can get to know you and so you can get practi
 ## Where are you now, and what sort of computer are you using?  
   
 ### my answer     
-  I'm currently in tutoring, I have an Lenovo intel core untra 7.
+ I'm currently in tutoring, I have an Lenovo el core ultra 7. 
 
      
 
